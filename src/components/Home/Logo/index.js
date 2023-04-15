@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react'
+/*import { useEffect, useRef } from 'react'
 import gsap from 'gsap-trial'
 import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin'
 import LogoS from '../../../assets/images/NIK5.png'
@@ -68,3 +68,4 @@ const Logo = () => {
 }
 
 export default Logo
+*/
